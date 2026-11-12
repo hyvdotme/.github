@@ -32,6 +32,6 @@ Invite-only for now, at [hyv.me](https://hyv.me).
 - [Websites, with your passwords kept safe](https://hyv.me/notes/browser-and-vault-passwords-stay)
 
 #### Hyv
-[About](https://hyv.me/about) · [Things to ask](https://hyv.me/ask) · [All notes](https://hyv.me/notes) · [How to spell Hyv](https://hyv.me/name) · [x.com/hyvdotme](https://x.com/hyvdotme) · contact@hyv.me
+[About](https://hyv.me/about) · [Things to ask](https://hyv.me/ask) · [All notes](https://hyv.me/notes) · [How to spell Hyv](https://hyv.me/name) · [x.com/hyvdotme](https://x.com/hyvdotme) · hey@hyv.me
 
 </details>
