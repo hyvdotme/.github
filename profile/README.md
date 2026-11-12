@@ -14,17 +14,24 @@ Invite-only for now, at [hyv.me](https://hyv.me).
 <br>
 
 <details>
-<summary><sub>More from Hyv</sub></summary>
-<br>
-<sub>
+<summary>More from Hyv</summary>
 
-**Guides:** [Schedule a WhatsApp message](https://hyv.me/notes/schedule-a-whatsapp-message) · [Send an email from WhatsApp](https://hyv.me/notes/send-email-from-whatsapp) · [Send a calendar invite from WhatsApp](https://hyv.me/notes/send-calendar-invite-from-whatsapp) · [Set reminders on WhatsApp](https://hyv.me/notes/set-reminders-on-whatsapp) · [Set a reminder in Telegram](https://hyv.me/notes/set-reminder-in-telegram) · [Personal AI assistants on WhatsApp](https://hyv.me/notes/personal-ai-assistants-on-whatsapp) · [An AI that calls businesses for you](https://hyv.me/notes/ai-that-calls-businesses-for-you)
+#### Guides
+- [Schedule a WhatsApp message](https://hyv.me/notes/schedule-a-whatsapp-message)
+- [Send an email from WhatsApp](https://hyv.me/notes/send-email-from-whatsapp)
+- [Send a calendar invite from WhatsApp](https://hyv.me/notes/send-calendar-invite-from-whatsapp)
+- [Set reminders on WhatsApp](https://hyv.me/notes/set-reminders-on-whatsapp)
+- [Set a reminder in Telegram](https://hyv.me/notes/set-reminder-in-telegram)
+- [Personal AI assistants on WhatsApp](https://hyv.me/notes/personal-ai-assistants-on-whatsapp)
+- [An AI that calls businesses for you](https://hyv.me/notes/ai-that-calls-businesses-for-you)
 
-**How it works:** [Email, calendar and reminders](https://hyv.me/notes/workspace-email-calendar-reminders) · [Message drafts you send](https://hyv.me/notes/message-drafts-you-press-send) · [Shopping](https://hyv.me/notes/shopping-buy-without-leaving-chat) · [Websites and your passwords](https://hyv.me/notes/browser-and-vault-passwords-stay)
+#### How it works
+- [Email, calendar and reminders](https://hyv.me/notes/workspace-email-calendar-reminders)
+- [Message drafts you send yourself](https://hyv.me/notes/message-drafts-you-press-send)
+- [Shopping without leaving the chat](https://hyv.me/notes/shopping-buy-without-leaving-chat)
+- [Websites, with your passwords kept safe](https://hyv.me/notes/browser-and-vault-passwords-stay)
 
-**Hyv:** [About](https://hyv.me/about) · [Things to ask](https://hyv.me/ask) · [All notes](https://hyv.me/notes) · [How to spell Hyv](https://hyv.me/name) · [x.com/hyvdotme](https://x.com/hyvdotme) · contact@hyv.me
+#### Hyv
+[About](https://hyv.me/about) · [Things to ask](https://hyv.me/ask) · [All notes](https://hyv.me/notes) · [How to spell Hyv](https://hyv.me/name) · [x.com/hyvdotme](https://x.com/hyvdotme) · contact@hyv.me
 
-A product of Decimal - F.Z.C.
-
-</sub>
 </details>
